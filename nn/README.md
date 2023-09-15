@@ -1,4 +1,6 @@
 ## Неросетевые серсисы
+* [Tensorflow playground](http://playground.tensorflow.org)
+* [Визуализация CNN](https://animatedai.github.io/)
 * [Quick, draw!](https://quickdraw.withgoogle.com/)
 * [Random Face Generator (this person doesn't exist)](https://this-person-does-not-exist.com/en)
 
@@ -18,4 +20,5 @@
 * [Introduction to Deep Learning-- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html)
 
 ### Reinforcement Learning
+* [A Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
 * [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
