@@ -18,7 +18,9 @@
     * [YouTube](https://www.youtube.com/playlist?list=PLaRUeIuewv8BYOrm6HBgJKbGUD-jcBQpW)
 * [Deep learning на пальцах - Семен Козлов](https://dlcourse.ai/)
 * [Introduction to Deep Learning-- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html)
+* [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=getting-started)
 
 ### Reinforcement Learning
 * [A Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
 * [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
+* [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
