@@ -7,6 +7,7 @@
 ## Книги
 * "Глубокое обучение" - Аарон Курвилль, Иошуа Бенджио, Ян Гудфеллоу
 * "Глубокое обучение. Погружение в мир нейронных сетей" - Николенко, Кадурин, Архангельская
+* [Simon J.D. Prince "Understanding Deep Learning"](https://udlbook.github.io/udlbook/)
 * [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
 
 ## Курсы DL
@@ -24,3 +25,4 @@
 * [A Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
 * [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
 * [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* [CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
