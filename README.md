@@ -21,10 +21,6 @@
     * [Stepik](https://stepik.org/course/108888/syllabus)
     * [Github](https://github.com/a-milenkin/Competitive_Data_Science)
 
-### [DL курсы](https://github.com/castargo/ML_DL_experiments/tree/main/nn)
+### [DL материалы](https://github.com/castargo/ML_DL_experiments/tree/main/nn)
 
-### NLP
-* [NLP pub](https://nlpub.ru/)
-* [NLP Course by Lena Voita](https://lena-voita.github.io/nlp_course.html)
-* [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-* [NLP Cheatsheet: Master NLP](https://www.kaggle.com/code/dmitrykilievych/nlp-cheatsheet-master-nlp/notebook)
+### [NLP материалы](https://github.com/castargo/ML_DL_experiments/blob/main/nn/nlp)
