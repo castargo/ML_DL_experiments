@@ -78,7 +78,6 @@ ML_DL_experiments
 
 ### NLP материалы
 * [NLP pub](https://nlpub.ru/)
-* "Глубокое обучение. Погружение в мир нейронных сетей" - Николенко, Кадурин, Архангельская
 * [NLP Course by Lena Voita](https://lena-voita.github.io/nlp_course.html)
 * [ШАД - nlp course](https://github.com/yandexdataschool/nlp_course)
 * [Hugging face NLP course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
