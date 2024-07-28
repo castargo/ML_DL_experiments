@@ -49,6 +49,7 @@ ML_DL_experiments
 * Курс "Введение в соревновательный Data Science"
     * [Stepik](https://stepik.org/course/108888/syllabus)
     * [Github](https://github.com/a-milenkin/Competitive_Data_Science)
+* [nachiket273/ML_Algo_Implemented](https://github.com/nachiket273/ML_Algo_Implemented/tree/74ae47fdf620545fdf8c934c5997784faadaebb7)
 
 ### DL материалы
 * [Tensorflow playground](http://playground.tensorflow.org)
@@ -86,10 +87,14 @@ ML_DL_experiments
 * [NLP-блок курса "Практический анализ данных" (ФКН НИУ ВШЭ)](https://github.com/ancatmara/data-science-nlp/tree/master)
 
 ### Reinforcement Learning
+* [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Deep Reinforcement Learning Course
+    * [Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+    * [GitHub](https://github.com/huggingface/deep-rl-class)
 * [A Baby Robot's Guide to Reinforcement Learning](https://github.com/WhatIThinkAbout/BabyRobot)
 * [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
-* [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 * [CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
+* [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html)
 
 ### Math
 * [Blog - Nick Higham](https://nhigham.com/blog/)
