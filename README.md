@@ -39,6 +39,10 @@ ML_DL_experiments
 * [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 * [ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
+### Data Science LeetCode
+* [NeetCode](https://neetcode.io/practice)
+* [Datalemur](https://datalemur.com/questions)
+
 ### ML материалы
 * [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
 * [Введение в машинное обучение (К.В.Воронцов)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
@@ -85,6 +89,7 @@ ML_DL_experiments
 * [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 * [NLP Cheatsheet: Master NLP](https://www.kaggle.com/code/dmitrykilievych/nlp-cheatsheet-master-nlp/notebook)
 * [NLP-блок курса "Практический анализ данных" (ФКН НИУ ВШЭ)](https://github.com/ancatmara/data-science-nlp/tree/master)
+* [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file)
 
 ### Reinforcement Learning
 * [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
