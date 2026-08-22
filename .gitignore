@@ -4,7 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# TMP files
 nn/basics/data
+tmp/
+_*.ipynb
 
 # C extensions
 *.so
@@ -12,7 +15,6 @@ nn/basics/data
 # Distribution / packaging
 .Python
 .cache/
-tmp/
 build/
 develop-eggs/
 dist/
