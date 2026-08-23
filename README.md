@@ -28,6 +28,7 @@ ML_DL_experiments
 ```
 
 ## Полезные материалы
+* [ML-Course-Notes](https://github.com/dair-ai/ml-course-notes)
 
 ### Inspiration
 * [Papers With Code](https://paperswithcode.com/)
@@ -38,6 +39,7 @@ ML_DL_experiments
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
 * [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 * [ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+* LLM по полочкам: от матриц до ризонинга by Data Secrets
 
 ### Data Science LeetCode
 * [NeetCode](https://neetcode.io/practice)
@@ -54,9 +56,11 @@ ML_DL_experiments
     * [Stepik](https://stepik.org/course/108888/syllabus)
     * [Github](https://github.com/a-milenkin/Competitive_Data_Science)
 * [nachiket273/ML_Algo_Implemented](https://github.com/nachiket273/ML_Algo_Implemented/tree/74ae47fdf620545fdf8c934c5997784faadaebb7)
+* [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
 ### DL материалы
 * [Tensorflow playground](http://playground.tensorflow.org)
+* [Fork документации PyTorch Lightning](https://lightning.girafe.ai/docs/pytorch/2.5.0/index.html)
 * [Визуализация CNN](https://animatedai.github.io/)
 * [A visual introduction to NN](https://mlu-explain.github.io/neural-networks/)
 * [Quick, draw!](https://quickdraw.withgoogle.com/)
@@ -93,6 +97,7 @@ ML_DL_experiments
 
 ### Reinforcement Learning
 * [Reinforcement Learning An Introduction - Richard S. Sutton and Andrew G. Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* [A History of Reinforcement Learning - Prof. A.G. Barto](https://www.youtube.com/watch?app=desktop&v=ul6B2oFPNDM)
 * Deep Reinforcement Learning Course
     * [Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
     * [GitHub](https://github.com/huggingface/deep-rl-class)
@@ -108,3 +113,4 @@ ML_DL_experiments
 * [Yet another math for DS course](https://github.com/FUlyankin/yet_another_math_for_DS/tree/main)
 * [Math with Bad Drawings](https://mathwithbaddrawings.com/)
 * [Matrix Differential Calculus with Applications in Statistics and Econometrics](http://www.janmagnus.nl/misc/mdc-ch18.pdf)
+* [Лекции по математическому анализу](https://teach-in.ru/course/mathan-lectures-solodov-p1)
