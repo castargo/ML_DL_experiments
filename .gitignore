@@ -5,7 +5,6 @@ __pycache__/
 *$py.class
 
 # TMP files
-nn/basics/data
 tmp/
 _*.ipynb
 
